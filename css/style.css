@@ -102,7 +102,7 @@ body:not(#home) #hero h1 {
 }
 
 #home #hero {
-      background-image: url(../img/hero-home.png);
+      background-image: url(../img/hero-home.jpg);
 }
 
 #about #hero {
@@ -111,17 +111,17 @@ body:not(#home) #hero h1 {
 }
 
 #expeditions #hero {
-    background-image: url(../img/hero-expeditions.png);
+    background-image: url(../img/hero-expeditions.jpg);
     background-position-y: bottom;
 }
 
 #policies #hero {
-    background-image: url(../img/hero-policies.png);
+    background-image: url(../img/hero-policies.jpg);
     background-position-y: top;
 }
 
 #book #hero {
-    background-image: url(../img/hero-booknow.png);
+    background-image: url(../img/hero-booknow.jpg);
 }
 
 #hero article {
